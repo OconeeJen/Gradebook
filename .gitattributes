@@ -1,2 +1,13 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+{
+  "context_id": 12,
+  "context_type": “Account”,
+  "feature": "post_grades",
+  "state": "on",
+  "locking_account_id": null,
+  "transitions": {
+    "off": {
+      "locked": false
+    }
+  },
+  "locked": false
+  
